@@ -1,0 +1,15 @@
+{
+  "name": "sotecpro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "base/index.js",
+  "scripts": {
+    "start": "electron base/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^18.0.4",
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
